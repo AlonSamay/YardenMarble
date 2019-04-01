@@ -2,7 +2,7 @@
 
 A communication app between manager and his installers, developed for "Shaish-Yarden" company.
 
-##Installer:
+#Installer:
 Installers will notify their manager when they arrived to install destination, 
 and will take pictures of the install and signature of the client.
 In the firebase database we keep tracking the installer's device location.
