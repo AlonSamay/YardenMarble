@@ -5,10 +5,10 @@ A communication app between manager and his installers, developed for "Shaish-Ya
 
 the app is devided to 2 parts - installer and manager:
 
-## Installer:
+## Installer
 Installers will notify their manager when they arrived to their install destination, 
 and will take pictures of the install and signature of the client that will be uploaded to firebase.
 Also in firebase, we keep tracking the installer's device location.
 
-## Manager:
+## Manager
 Manager can track his installers via a map and add new installs.
