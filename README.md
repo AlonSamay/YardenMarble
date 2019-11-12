@@ -1,5 +1,7 @@
 # YardenMarble
 
+// coded with Android Studio and Java.
+
 Final project for intrudoction to android developer course:
 A communication app between manager and his installers, developed for "Shaish-Yarden" company.
 
